@@ -1,4 +1,4 @@
-# private-go-transaction-by-clean-architecture
+# go-transaction-by-clean-architecture
 
 Go + GORM + Gin + Clean Architecture で、複数テーブル更新のトランザクション責務を比較するサンプル実装です。
 
